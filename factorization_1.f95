@@ -1,4 +1,7 @@
 ! Fortran 2008
+! file saves as factorization_1.f95
+! compile the file with Fortran 2008 capabile compiler
+! tested with gfortran
 ! Input a number and factorize it with simple optimization
 
 program Factorization_1
